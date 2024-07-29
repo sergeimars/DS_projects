@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4555f0c-9295-4ec1-9ab7-4b3d744287b8" name="Changes" comment="Structuring project data">
+      <change beforePath="$PROJECT_DIR$/faiss_matching/faiss_matching_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/faiss_matching/faiss_matching_project.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sergeimars &lt;sergeivmars@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sergeimars&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:/sergeimars/DS_projects.git",
+    "accountId": "cfd188b9-cb8e-435e-9a63-7cb32df2b620"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2juYROmXU0FaoYF1py6WhsHzpX5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/s.mars/PycharmProjects/DS_projects/faiss_matching&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/faiss_matching" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/internet_store_project" />
+      <recent name="$PROJECT_DIR$/internet_store_project/.ipynb_checkpoints" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4555f0c-9295-4ec1-9ab7-4b3d744287b8" name="Changes" comment="" />
+      <created>1722238419512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722238419512</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Append a ipynb">
+      <option name="closed" value="true" />
+      <created>1722239652067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722239652067</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722240142134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722240142134</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722242102016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722242102016</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722245381653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722245381653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722252944814</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722252944814</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722253224791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722253224791</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722253460022</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722253460022</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722253629606</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722253629606</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722253725614</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722253725614</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Structuring project data">
+      <option name="closed" value="true" />
+      <created>1722253806513</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722253806513</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Append a ipynb" />
+    <MESSAGE value="Ваше сообщение о коммите" />
+    <MESSAGE value="Structuring project data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structuring project data" />
+  </component>
+</project>
